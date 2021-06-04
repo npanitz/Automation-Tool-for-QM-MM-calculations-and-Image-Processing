@@ -1,6 +1,6 @@
 # This project is a pipeline for QM/MM calculations with NAMD and Gaussian, image processing with Gaussian, VMD and ImageMagick, and subsequent data analysis with Python.
 ### Creator: Naftali Panitz
-### Acknowledgement: SUNY Binghamton, Chemistry Department: Goyal Lab.
+### Acknowledgement: SUNY Binghamton, Chemistry Department
 
 ## Installation of NAMD2, Gaussian g09, ImageMagick, and VMD are required for this process.
   - NAMD2 and Gaussian g09 can be downloaded at their respective websites and require Academic registration/license.
